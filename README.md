@@ -12,6 +12,7 @@ grep  mkdir mv    rm
 sed   sort  tr    xargs
 wget
 ```
+* and Pipeline support (just | and && is enough)
 TL;DR A Linux OS or something similar (such as Win10's Bash shell)
 ## "Installation"
 1. Download files
