@@ -7,12 +7,12 @@ Shell Scripts bodged together to download music from Joox
 * Anything that can execute shell scripts
 * Support for these commands : 
 ```
-cat   cd    cp    find
-grep  mkdir mv    rm
-sed   sort  tr    xargs
-wget
+sed    xargs  wget   cd
+cat    tr     grep   sort
+mv     find   rename cp
 ```
-* and Pipeline support (just | and && is enough)
+* `rename` must be a perl command (the one that supports regex)
+* and pipeline support (just `|` and `&&` is enough)
 
 TL;DR A Linux OS or something similar (such as Win10's Bash shell)
 ## "Installation"
@@ -24,6 +24,8 @@ Put link from Joox into input.txt then run boot.sh to download songs
 It will download 2 versions for each link, an m4a and mp3
 
 In test runs, I found that some link will not provide mp3 download so it's for safety
+
+Also, the m4a will have lower quality but Joox will always give the link while mp3 has better quality but sometime Joox will just not give the link
 ### Badges
 i like em
 

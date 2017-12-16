@@ -12,7 +12,30 @@
 # These are all ok
 # The thing you need is in between song/ and /lyric
 # other stuff is cut off anyways
+# empty lines are also ignored
 # Now just run boot.sh to download ALL THE MUSIC
+# 
+# Leave some time between each download so they will not know
+# and download just 20 per batch or they would notice something strange
 # 
 # Also, Don't put # in front of the line, your link will not be downloaded
 # kbye
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,56 @@
+How to download Joox somgs manually! yayy *you don't want to
+
+1. get a song id
+here's a link: http://music.sanook.com/music/song/lFOQh6dEsv6oJ7Gbqxn_MQ==/lyric/
+here's it's song id: lFOQh6dEsv6oJ7Gbqxn_MQ==
+where's it at: http://music.sanook.com/music/song/<song id is here>/lyric/
+
+2.now put it after this
+http://api.joox.com/web-fcgi-bin/web_get_songinfo?songid=<here it goes>
+ex. : http://api.joox.com/web-fcgi-bin/web_get_songinfo?songid=lFOQh6dEsv6oJ7Gbqxn_MQ==
+
+3.now open the link in a browser or download the link
+you will get a file with stuff in it
+what you should find (a part of it): MusicInfoCallback({"album_url":"<some jpg link>","code":<?>,"country":"<country>","encodeSongId":"<here's the song id again>","express_domain":"<blahblahblah...
+
+4.find this
+choose: m4aUrl mp3Url r192Url r320Url
+m4aUrl : m4a file, fallback choice when no other links is present (used by JD)
+mp3Url : mp3 file at some bitrate i didn't check
+r192Url: m4a file @ 192kbps
+r320Url: mp3 file @ 320kbps (used by JD)
+
+find "<ur choice>":"
+ex. "m4aUrl":"http://stream.music.joox.com/C100001c0yAz0jqVIc.m4a?fromtag=38"
+there's your ticket straight to the file
+be quick, it'll forbid your access if your too slow
+
+5.dl that stuff
+now that you find the url
+paste that into your browser to download it or your download manager
+the song information is in the metadata
+so to know what is that song, find a metadata viewer
+or copy them to a windows machine near you
+or open a samba share and view the file through lan (note: only short name show metadata, long name don't metadata)
+
+good job you can now download joox music by yourself congratulation
+
+ ((((((((((((((((((((((((((((((((((((((O
+ |                                    |
+ |                                    |
+ |                                    |
+ |     Certificate of Achievement     |
+ |                                    |
+ |       This acknowledges that       |
+ |          <your name here>          |
+ |    Has sucessfully completed the   |
+ |Joox Manual Music Downloading Course|
+ |                                    |
+ |                                    |
+ | ____________                       |
+ | |Month, Day|   _blaaihjjdbf___     |
+ | |   Year   |   Signed, Nutch, Sal  |
+ | |__________|                       |
+ |                [Command Block]     |
+ |                                    |
+O))))))))))))))))))))))))))))))))))))))
