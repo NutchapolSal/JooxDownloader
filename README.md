@@ -51,3 +51,7 @@ i like em
 ![Search Hit Counter](https://img.shields.io/github/search/nutchapolsal/jooxdownloader/goto.svg)
 ![Code Size](https://img.shields.io/github/languages/code-size/nutchapolsal/jooxdownloader.svg)
 ![Repo Size](https://img.shields.io/github/repo-size/nutchapolsal/jooxdownloader.svg)
+
+#### Note
+This program cannot be used to pirate VIP Joox songs
+but why even bother, 1 minute on google will probably find it anyways
