@@ -1,11 +1,18 @@
 # Drag links or Song IDs from Joox into this file
 # 1 link per line please
 # ex.
+#
 # http://music.sanook.com/music/song/o1yi+gQGs7BmwgiV5BXjYg==/lyric/
+# http://music.sanook.com/music/song/i+gxsy1eoTMj0JsRjLb9Og==
 # music.sanook.com/music/song/V40YWMQ5ssozRnDWsus2Ag==/lyric/
 # isABH9cKiP35VVi2CslXpw==/lyric/
 # Nkwbax3I1AE7zs6UMP6EYA==
+# (actual working Song IDs) 
 # 
 # These are all ok
+# The thing you need is in between song/ and /lyric
+# other stuff is cut off anyways
+# Now just run boot.sh to download ALL THE MUSIC
+# 
 # Also, Don't put # in front of the line, your link will not be downloaded
 # kbye
