@@ -1,0 +1,11 @@
+# Drag links or Song IDs from Joox into this file
+# 1 link per line please
+# ex.
+# http://music.sanook.com/music/song/o1yi+gQGs7BmwgiV5BXjYg==/lyric/
+# music.sanook.com/music/song/V40YWMQ5ssozRnDWsus2Ag==/lyric/
+# isABH9cKiP35VVi2CslXpw==/lyric/
+# Nkwbax3I1AE7zs6UMP6EYA==
+# 
+# These are all ok
+# Also, Don't put # in front of the line, your link will not be downloaded
+# kbye

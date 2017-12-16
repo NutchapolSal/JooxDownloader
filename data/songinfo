@@ -1,0 +1,1 @@
+< input.txt sed '/#/d' | sed 's/ //g' | sed '/^ *$/d' | sed 's/http://g' | sed 's/https://g' | sed 's/music.sanook.com//g' | sed 's/music//g' | sed 's/song//g'| sed 's/lyric//g' | sed 's/\///g' | sed 's/^/http:\/\/api.joox.com\/web-fcgi-bin\/web_get_songinfo?songid=/' | xargs wget -P ./temp
