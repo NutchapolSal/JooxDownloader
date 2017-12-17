@@ -16,7 +16,8 @@ mv     find   rename cp
 
 TL;DR A Linux OS or something similar (such as Win10's Bash shell)
 ## "Installation"
-1. Download files
+1. Download files 
+![Release](https://img.shields.io/github/release/nutchapolsal/jooxdownloader.svg) or Clone the files from Git Bash
 2. Run firsttime.sh to make directories and "create" input file
 ## How to Use
 Put link from Joox into input.txt then run boot.sh to download songs
@@ -25,7 +26,7 @@ It will download 2 versions for each link, an m4a and mp3
 
 In test runs, I found that some link will not provide mp3 download so it's for safety
 
-Also, the m4a will have lower quality but Joox will always give the link while mp3 has better quality but sometime Joox will just not give the link
+Also, the m4a will have lower quality(maybe) but Joox will always give the link while mp3 has better quality but sometime Joox will just not give the link
 ### Badges
 i like em
 
