@@ -7,9 +7,10 @@ Shell Scripts bodged together to download music from Joox
 * Anything that can execute shell scripts
 * Support for these commands : 
 ```
-sed    xargs  wget   cd
-cat    tr     grep   sort
-mv     find   rename cp
+mkdir  cp     rm     echo
+sleep  sed    tr     grep
+xargs  wget   cd     cat
+sort   mv     find   rename 
 ```
 * `rename` must be a perl command (the one that supports regex)
 * and pipeline support (just `|` and `&&` is enough)
