@@ -33,7 +33,7 @@ i like em
 
 ![OS](https://img.shields.io/badge/os-linux-blue.svg)
 ![Lang](https://img.shields.io/badge/lang-sh-orange.svg)
-[![Discord](https://img.shields.io/discord/291247686777307137.svg)](https://discord.gg/FhxPSCg)
+[![Discord](https://img.shields.io/discord/291247686777307137.svg?label=discord&colorB=7289DA)](https://discord.gg/FhxPSCg)
 
 [![Issues](https://img.shields.io/github/issues/NutchapolSal/JooxDownloader.svg)](https://github.com/NutchapolSal/JooxDownloader/issues)
 [![Forks](https://img.shields.io/github/forks/NutchapolSal/JooxDownloader.svg)](https://github.com/NutchapolSal/JooxDownloader/network)
